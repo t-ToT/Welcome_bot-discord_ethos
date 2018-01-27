@@ -1,6 +1,6 @@
 :wave: Bonjour et bienvenue de la part de toutes l'équipe ethOS
 
-:warning: Voici les règles du serveurs veuillez les lires en entier et intégralement
+:warning: Voici les règles du serveurs veuillez les lires en entier
 pour le bon fonctionnement du serveur discord :warning:
 
 Règles :
