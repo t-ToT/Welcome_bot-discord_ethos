@@ -10,7 +10,7 @@ client.on("ready",() => {
 
 client.on('guildMemberAdd', member => {
 	console.log('User ' + member.user.username + ' as join the server');
-	member.guild.channels.get('369435011340042242').send(`Bienvenu à ${member.user.username}, merci de bien vouloir lire les règles, elles vous ont été envoyer par mp également`)
+	member.guild.channels.get('369435011340042242').send(`Bienvenue à ${member.user.username}, merci de bien vouloir lire les règles, elles vous ont été envoyées par mp également`)
 });
 
 let rules = fs.readFileSync("./rules.md", "utf8");
